@@ -1,7 +1,7 @@
 class Play12 < Formula
   homepage "http://www.playframework.org/"
   url "http://downloads.typesafe.com/play/1.2.7.2/play-1.2.7.2.zip"
-  sha256 "4fc610e2db0993fee3daf01527ba5ca57a9ad970c429733415ee59b55064b322"
+  sha256 "bdf4422b235553c36161ba85512ad17a25b5f5974179b28caccccdc82e9dfc22"
 
   bottle do
     cellar :any
